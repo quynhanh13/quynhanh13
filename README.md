@@ -8,18 +8,19 @@
   <a href="https://github.com/quynhanh13">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/](https://www.linkedin.com/in/ngoc-quynh-anh-nguyen-35714432b">
+  <a href="https://www.linkedin.com/in/ngoc-quynh-anh-nguyen-35714432b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
 ## 🚀 About Me
 
-I'm a **Data Analytics and Visualization graduate student** passionate about turning data into meaningful insights and building reliable, data-driven solutions.
+I'm a **Data Analytics and Visualization graduate student** passionate about **Data Analytics, Data Science, and building reliable, data-driven solutions**.
 
-I enjoy working across the data lifecycle — from **data cleaning and exploratory analysis** to **statistical modeling, visualization, database validation, and software testing**.
+I enjoy working across the data lifecycle — from **data cleaning and exploratory data analysis** to **statistical modeling, machine learning, data visualization, database validation, and software testing**.
 
-My background in Software Quality Control has also strengthened my attention to detail and my ability to investigate problems from both a **technical and data perspective**.
+My background in Software Quality Control has strengthened my **attention to detail, problem-solving, and root-cause analysis**, allowing me to approach challenges from both a **technical and data-driven perspective**.
+
 
 Currently, I'm expanding my skills in:
 
